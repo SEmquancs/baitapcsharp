@@ -1,0 +1,11 @@
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\Backend.exe
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\Backend.dll
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\Backend.deps.json
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\Backend.runtimeconfig.json
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\Backend.pdb
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Pictures\baitapcsharp\Backend\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
